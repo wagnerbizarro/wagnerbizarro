@@ -1,6 +1,5 @@
 ### Olá, eu sou o Wagner 👋
 
-- 🌱 Minhas lingaguens preferidas são Node.js e Go.
 - 📫 E-mail: wagnerbzr@gmail.com
 
 
