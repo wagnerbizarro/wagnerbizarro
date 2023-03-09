@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wagner 👋
 
-- 🌱 Minhas lingaguens preferidas são Node.js e GoLang.
+- 🌱 Minhas lingaguens preferidas são Node.js e Go.
 - 📫 E-mail: wagnerbzr@gmail.com
 
 
@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Wagner-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Wagner-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg">
+  <img align="center" alt="Wagner-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
 
 </div>
