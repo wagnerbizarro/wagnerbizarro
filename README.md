@@ -1,8 +1,7 @@
-### Hi there 👋
+### Olá, eu sou o Wagner 👋
 
-- 🔭 I’m currently working on infrastructure/sysadmin
-- 🌱 I’m currently learning DevOps/SRE
-- 📫 How to reach me: wagnerbzr@gmail.com
+- 🌱 Minhas lingaguens preferidas são Node.js e GoLang.
+- 📫 E-mail: wagnerbzr@gmail.com
 
 
 <div align="center">
@@ -12,11 +11,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Wagner-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Wagner-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
+  <img align="center" alt="Wagner-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/golang-original.svg">
 
 
 </div>
