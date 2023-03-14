@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Wagner-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Wagner-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
+  <img align="center" alt="Wagner-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Wagner-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
 
