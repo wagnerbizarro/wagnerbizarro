@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Wagner-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Wagner-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/kottlin.svg">
+  <img align="center" alt="Wagner-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kottlin/kottlin.svg">
   <img align="center" alt="Wagner-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
 </div>
