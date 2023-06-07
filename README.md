@@ -16,7 +16,7 @@
   <img align="center" alt="Wagner-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>  ---!>
 
-  </br>
+  </br></br>
 
   <div> 
   <a href = "mailto:wagnerbzr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
