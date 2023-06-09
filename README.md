@@ -8,13 +8,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerbizarro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbizarro&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  ---!>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <!---<img align="center" alt="Wagner-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Wagner-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Wagner-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Wagner-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>  ---!>
+</div>  
+---!>
 
   </br></br>
 
