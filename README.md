@@ -1,4 +1,4 @@
-<!---
+
 ### Olá, eu sou o Wagner 👋
 
 - 📫 E-mail: wagnerbzr@gmail.com
@@ -16,7 +16,7 @@
   <img align="center" alt="Wagner-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Wagner-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>  
----!>
+
 
   </br></br>
 
