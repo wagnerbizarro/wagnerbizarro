@@ -14,7 +14,7 @@
   <img align="center" alt="Wagner-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Wagner-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Wagner-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-shellscript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellscript/shellscript-original.svg">
+  <img align="center" alt="Wagner-shellScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellScript/shellScript-original.svg">
 </div>  
 
 
