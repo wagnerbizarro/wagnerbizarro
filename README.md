@@ -1,5 +1,7 @@
 
-:chart_with_upwards_trend: ### My GitHub History!
+:chart_with_upwards_trend:
+ 
+ ### My GitHub History!
 
 
 <div align="center">
