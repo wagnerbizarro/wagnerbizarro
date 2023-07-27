@@ -1,6 +1,6 @@
-:chart_with_upwards_trend:  
-### My GitHub History!  
 
+### My GitHub History!  
+:chart_with_upwards_trend:  
 <div align="center">
   <a href="https://github.com/wagnerbizarro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerbizarro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
