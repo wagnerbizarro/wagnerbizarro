@@ -1,5 +1,6 @@
 
 ### My GitHub History!  
+:computer:
 :chart_with_upwards_trend:  
 <div align="center">
   <a href="https://github.com/wagnerbizarro">
