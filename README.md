@@ -1,4 +1,4 @@
-:chart_with_upwards_trend:
+:chart_with_upwards_trend:  
 ### My GitHub History!  
 
 <div align="center">
