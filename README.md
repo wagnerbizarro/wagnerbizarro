@@ -1,7 +1,5 @@
 
-### My GitHub History!  
-:computer:
-:chart_with_upwards_trend:  
+### My GitHub History!   
 <div align="center">
   <a href="https://github.com/wagnerbizarro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerbizarro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,6 +12,7 @@
   <img align="center" alt="Wagner-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Wagner-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Wagner-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Wagner-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg">
   </br></br>
 
   <div> 
